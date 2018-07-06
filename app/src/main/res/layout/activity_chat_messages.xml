@@ -12,6 +12,10 @@
         android:layout_width="match_parent"
         android:layout_marginBottom="60dp"
         android:layout_height="match_parent"/>
+<<<<<<< HEAD
+=======
+
+>>>>>>> ccecc667925f9f9e9ce581c6f182f6fabcc7ea9f
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -19,12 +23,15 @@
         android:layout_alignParentBottom="true"
         android:orientation="horizontal">
 
+<<<<<<< HEAD
         <ImageButton
             android:id="@+id/photoPickerButton"
             android:layout_width="36dp"
             android:layout_height="36dp"
             android:background="@android:drawable/ic_menu_gallery" />
 
+=======
+>>>>>>> ccecc667925f9f9e9ce581c6f182f6fabcc7ea9f
         <EditText
             android:id="@+id/messageEditText"
             android:layout_width="0dp"
