@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "1095512475845",
+    "firebase_url": "https://mobile-forms-chat.firebaseio.com",
+    "project_id": "mobile-forms-chat",
+    "storage_bucket": "mobile-forms-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095512475845:android:1cfa590d7a21da38",
+        "android_client_info": {
+          "package_name": "mobileforms.co"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095512475845-908em2a1agg371dd8nqenmvg3cc08e6r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mobileforms.co",
+            "certificate_hash": "b1251bc42a85ee8064913a06885ddac7c2ba1dc1"
+          }
+        },
+        {
+          "client_id": "1095512475845-fjqmugqb3n1252i5h7sdo3t61bh0i62h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mobileforms.co",
+            "certificate_hash": "9a37e8106c039ba500a9ffe8a7ceb256f1eb11d3"
+          }
+        },
+        {
+          "client_id": "1095512475845-vbhga0runicfa6f3o49a15t7od2o8lra.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mobileforms.co",
+            "certificate_hash": "cc973d188793fe697f666e870996af8ced089da1"
+          }
+        },
+        {
+          "client_id": "1095512475845-js8jao1sdg2subv3t3i4la0csbqratg3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvQAiWLgdwOHDQI_tqFikZ-Asr96iTiHU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095512475845-js8jao1sdg2subv3t3i4la0csbqratg3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
