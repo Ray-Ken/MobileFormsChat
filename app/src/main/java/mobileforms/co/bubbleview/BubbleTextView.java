@@ -10,9 +10,6 @@ import android.widget.TextView;
 import mobileforms.co.R;
 
 
-/**
- * Created by lgp on 2015/3/24.
- */
 public class BubbleTextView extends TextView {
     private BubbleDrawable bubbleDrawable;
     private float mArrowWidth;

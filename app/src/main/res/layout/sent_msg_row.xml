@@ -27,7 +27,7 @@
             app:arrowWidth="8dp"
             app:angle="8dp"
             app:arrowHeight="10dp"
-            app:arrowPosition="14dp"
+            app:arrowPosition="10dp"
             app:arrowLocation="left"
             app:arrowCenter="true"
             app:bubbleColor="@color/colorPrimaryDark"

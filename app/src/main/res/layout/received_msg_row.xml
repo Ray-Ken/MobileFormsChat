@@ -24,9 +24,9 @@
             app:angle="8dp"
             app:arrowHeight="10dp"
             app:arrowPosition="14dp"
-            app:arrowLocation="left"
+            app:arrowLocation="right"
             app:arrowCenter="true"
-            app:bubbleColor="@color/colorPrimaryDark"
+            app:bubbleColor="#a4c639"
             />
 
         <ImageView

@@ -110,7 +110,6 @@ public class ChatMessagesActivity extends AppCompatActivity {
                     //error
                     Toast.makeText(ChatMessagesActivity.this, "Error " + task.getException().getLocalizedMessage(), Toast.LENGTH_SHORT).show();
                 }else{
-                    Toast.makeText(ChatMessagesActivity.this, "Message sent successfully!", Toast.LENGTH_SHORT).show();
                     mMessageEditText.setText(null);
                     hideSoftKeyboard();
                 }
